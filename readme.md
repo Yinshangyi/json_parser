@@ -10,15 +10,15 @@ python3 -m venv env
 ```
 activate env/bin/activate
 ```
-**Install Python libraies**
+**Install Python libraries**
 ```
-pip install -r requirements
+pip install -r requirements.txt
 ```
 **Run script**
 ```
 python json_parser.py
 ```
-**Dectivate the virtual environment**
+**Deactivate the virtual environment**
 ```
 deactivate
 ```
